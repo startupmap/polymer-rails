@@ -1,5 +1,4 @@
 require 'nokogiri'
-require 'nokogumbo'
 
 module Polymer
   module Rails
